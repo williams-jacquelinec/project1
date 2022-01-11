@@ -8,7 +8,7 @@ authors = [{name = "Jacqueline Williams", email = "jacqueline.williams@ucsf.edu"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-dependencies = []
+dependencies = ["pytest"]
 
 [project.urls]
 Home = "https://github.com/williams-jacquelinec/project1"
